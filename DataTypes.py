@@ -1,6 +1,8 @@
 
 # type casting ( converting data type from one to another  e.g. convert float to int )
 weigth_float = 75.8
+
+
 #print("The value of weight variable is: ",weigth_float, " and Data types of weight vatiable is",type(weigth_float))
 
 weigth_int = int(weigth_float)
@@ -19,10 +21,16 @@ num4 = int(num2)
 print(type(num3) ,"and ",type(num4), " and addition of 2 numbers is ",num3+num4)
 
 # Variables naming convention
+
 # Camel Case:
 myFirstName = "Ajay"
 
 # Pascal
+
+
+
+This is the change in the file
+
 MyFirstName = "Ajay"
 
 # Snake case
